@@ -1,5 +1,5 @@
 # App Orçamento Pessoal
-**Criei um novo projeto  `Orçamento Pessoal`, onde é possível cadastrar suas despesas, filtrar, consultar e excluir elas, sendo exiba em uma tabela. **
+**Criei um novo projeto Orçamento Pessoal, onde é possível cadastrar suas despesas, filtrar, consultar e excluir elas, sendo exiba em uma tabela.**
 ## Acesse
 <p align="center">
 
